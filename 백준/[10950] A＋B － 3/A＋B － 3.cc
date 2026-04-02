@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int A{0}, B{0}, T{0};
+    
+    cin >> T;
+    
+    for(int i = 0; i < T; i++)
+    {
+        cin >> A >> B;
+        cout << A + B << endl;
+    }
+    
+    
+    
+    return 0;
+}
