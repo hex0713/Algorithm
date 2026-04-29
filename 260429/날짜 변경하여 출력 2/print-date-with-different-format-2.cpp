@@ -7,7 +7,7 @@ int main() {
     int y{0},m{0},d{0};
     char c{'-'};
 
-    cin >> d >> c >> m >> c >> y;
+    cin >> m >> c >> d >> c >> y;
 
     cout << y << "." << m << "." << d;
 
