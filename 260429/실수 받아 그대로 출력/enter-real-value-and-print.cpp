@@ -8,6 +8,7 @@ int main() {
     cout.precision(2);
     cout << fixed;
 
+    cin >> N;
     cout << N << endl;
 
     return 0;
