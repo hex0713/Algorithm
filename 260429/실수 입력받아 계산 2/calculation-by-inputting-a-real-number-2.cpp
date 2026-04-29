@@ -10,7 +10,7 @@ int main() {
     cout << fixed;
 
     cin >> a;
-    cout << a << endl;
+    cout << a + 1.5 << endl;
 
     return 0;
 }
