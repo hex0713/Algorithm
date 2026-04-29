@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     // Please write your code here.
-    float a{0f},b{0f};
+    float a{0},b{0};
 
     cout.precision(2);
     cout << fixed;
