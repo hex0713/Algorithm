@@ -5,7 +5,7 @@ int main() {
     // Please write your code here.
     float a{0},b{0},c{0};
 
-    cout.preicision(3);
+    cout.precision(3);
     cout << fixed;
 
     cin >> a >> b >> c;
