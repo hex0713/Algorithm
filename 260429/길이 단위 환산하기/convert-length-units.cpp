@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     // Please write your code here.
-    float N{0f};
+    float N{0};
 
     cin >> N;
 
